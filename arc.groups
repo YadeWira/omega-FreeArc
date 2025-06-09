@@ -26,6 +26,17 @@ $ojpg
 *.jpg
 *.jpeg
 
+$obmp
+*.bmp
+*.tif
+*.tiff
+*.tga
+*.wbm
+*.wbmp
+*.pgm
+*.pnm
+*.ppm
+
 $otext
 *.svg
 file_id.diz
